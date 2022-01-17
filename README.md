@@ -1,5 +1,5 @@
 
-# Airbnb EDA 📊
+# Black Friday Data Analysis 📊
 
 Since 2008, guests and hosts have used AirBNB to expand on travelling possibilities
 and present more unique, personalized way of experiencing the world. This dataset
@@ -11,8 +11,7 @@ describes the listing activity and metrics in San Diego, California for 2019.
 
 - Listings: This data had all the information regarding the listings. It had Host name, location, neighbourhood, price, monthly price, review score and number of reviews
 ## Tools Used
-    1.Python
-    2.Excel
+    1.Excel
 
 ## Conclusion ✔️
 
